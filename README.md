@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **furkanbrgn@gmail.com**
 
-- ⚡ Fun fact **I think I am willing and ready to learn new things, good at teamwork and communication, and resourceful.**
+- ⚡ Fun fact **I am a fan of movies and books. Also I think I am willing and ready to learn new things, good at teamwork and communication, and resourceful.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
