@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **furkanbrgn@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KTXXSRAFXmMRayqVfy5UUM7xR7jhXcuD8Ga8X8MrXHg/edit?usp=sharing](https://docs.google.com/document/d/1KTXXSRAFXmMRayqVfy5UUM7xR7jhXcuD8Ga8X8MrXHg/edit?usp=sharing)
-
 - ⚡ Fun fact **I think I am willing and ready to learn new things, good at teamwork and communication, and resourceful.**
 
 <h3 align="left">Connect with me:</h3>
