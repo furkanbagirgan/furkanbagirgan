@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A Frontend Developer From Kayseri/Turkey</h3>
+<h4 align="center">I graduated from computer engineering. I have been working on small and large scale projects with react, javascript and flutter. I spend my time developing and designing. I am interested in researching and learning new emerging technologies.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanbagirgan&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbagirgan" /> </p>
 
