@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanbagirgan" alt="furkanbagirgan" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter, React.js etc.**
+- 🌱 I’m currently learning **React Native, Flutter etc.**
 
 - 💬 Ask me about **React Native, Flutter, React.js**
 
