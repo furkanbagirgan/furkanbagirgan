@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="left">A Mobile Developer - React Native, Flutter, React.js</h3>
+<h3 align="left">Researcher & Developer - React Native, Flutter, React.js</h3>
 <p align="left">Hello everyone😀, I graduated from computer engineering🎓. I have been working on small and large scale projects with react native and flutter. I am interested in researching and learning new emerging technologies💻.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanbagirgan&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbagirgan" /> </p>
